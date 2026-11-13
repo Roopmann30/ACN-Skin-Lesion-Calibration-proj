@@ -1,0 +1,6 @@
+{
+  "name": "ACN Skin Lesion Calibration",
+  "description": "Auxiliary Calibration Network demonstration for skin lesion classification uncertainty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
